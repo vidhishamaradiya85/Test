@@ -63,7 +63,6 @@ A full-stack CRUD application for creating, editing, searching, and tagging note
 | GET    | `/notes/{note_id}`      | Retrieve a single note (404 if not found)    |
 | PUT    | `/notes/{note_id}`      | Partially update a note                      |
 | DELETE | `/notes/{note_id}`      | Delete a note (204 on success)               |
-| GET    | `/notes/search`         | Search by `q` (keyword) and/or `tag`         |
 
 All endpoints require an `X-API-Key` header matching the value configured in `.env`.
 
