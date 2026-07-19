@@ -2,7 +2,7 @@
 
 This repository contains two full-stack applications:
 
-- **Project A** — Notes API (a CRUD notes application with search and authentication)
+- **Project A** — Notes API (a CRUD notes application)
 - **Project B** — URL Shortener (a link-shortening service with click analytics)
 
 Both projects follow the same stack pattern: a **FastAPI + SQLite** backend paired with a **Next.js + Tailwind CSS** frontend.
