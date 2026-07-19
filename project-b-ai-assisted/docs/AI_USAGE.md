@@ -18,7 +18,7 @@ Two AI tools were used for different tasks. Backend implementation, tests, and f
 | Frontend implementation (Shorten form, Dashboard) | Google Antigravity (agent mode) | Needed to run the dev server and verify behavior in an actual browser (form submission, redirects, click counts). |
 | API documentation (`API.md`) | Claude (chat) | Clear, consistent technical writing across endpoints, request/response examples, and status codes. |
 | Setup guide (`SETUP.md`) | Claude (chat) | Same reasoning — structured, readable documentation rather than code execution. |
-| This usage log (`AI_USAGE.md`) | Claude (chat) | Same reasoning as above. |
+
 
 ## Transcript methodology
 
