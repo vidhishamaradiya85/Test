@@ -134,7 +134,6 @@ A full-stack application for shortening URLs and tracking click analytics.
 |--------|----------------------------|-------------------------------------------|
 | POST   | `/shorten`                 | Create a shortened URL                   |
 | GET    | `/{short_code}`             | Redirect to the original URL             |
-| GET    | `/stats/{short_code}`       | Get click analytics for a short code     |
 
 ### Setup Instructions (B)
 
